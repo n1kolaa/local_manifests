@@ -1,9 +1,8 @@
-CyanogenMod 10.1 for SEMC 2011 devices
+LineageOS 14.1 for G2 devices
 ===============
 
-Local manifest needed to build cm-10.1 for the Sony Ericsson 2011 phone line.
+Since they refuse to merge my stuffs
 
 Instructions:
--------------
-
-Copy semc.xml into .repo/local_manifests folder in your cm10.1 tree
+------------
+Just run update
